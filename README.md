@@ -1,12 +1,12 @@
 # 💫 About Me:
 Hey 👋🏽, I'm Ravi !<br>Hi, I'm Ravi Kumar Singh, a MERN STACK Developer 🚀 from India, currently, I'm  Team Member 🙍🏽‍♂️ @Codeograph Solutions,  👨🏽‍💻, Learning JAVA 👨🏽‍💼a Electronic Engineer exploring world of codes and algorithm .<br><br>
-🛠️ My Tools: 
-🌟 React Magic: React is like a special tool that helps me create interactive and dynamic websites. It's like having building blocks that make my code organized and flexible.
-🎨 Crafting with Material-UI and Tailwind CSS: I use Material-UI and Tailwind CSS to ensure that websites not only function seamlessly but also have stunning designs.
-🔗 Efficient State Management with Redux, Redux Toolkit, and React Query: Picture Redux, Redux Toolkit, and React Query as my reliable team. They work together to organize how a website remembers things and keep everything running smoothly.
-🌐 Enhancing Websites with Data: I have expertise in fetching information from the internet using techniques like 'fetch' and React Query to add dynamic and interactive features to websites.
-🧠 Strong Foundation in Problem-Solving: As a React Developer, I offer a unique advantage – I'm really good at solving problems using Data Structures and Algorithms in JavaScript.
-🤝 Team Player: I love collaborating. Git and Agile methods help our team work smoothly and deliver top-notch code and experiences.I never miss a deadline and consistently exceed client expectations.
+🛠️ My Tools:<br>
+🌟 React Magic: React is like a special tool that helps me create interactive and dynamic websites. It's like having building blocks that make my code organized and flexible.<br>
+🎨 Crafting with Material-UI and Tailwind CSS: I use Material-UI and Tailwind CSS to ensure that websites not only function seamlessly but also have stunning designs.<br>
+🔗 Efficient State Management with Redux, Redux Toolkit, and React Query: Picture Redux, Redux Toolkit, and React Query as my reliable team. They work together to organize how a website remembers things and keep everything running smoothly.<br>
+🌐 Enhancing Websites with Data: I have expertise in fetching information from the internet using techniques like 'fetch' and React Query to add dynamic and interactive features to websites.<br>
+🧠 Strong Foundation in Problem-Solving: As a React Developer, I offer a unique advantage – I'm really good at solving problems using Data Structures and Algorithms in JavaScript.<br>
+🤝 Team Player: I love collaborating. Git and Agile methods help our team work smoothly and deliver top-notch code and experiences.I never miss a deadline and consistently exceed client expectations.<br><br>
 🧠 I Love Learning: I'm always excited to learn and keep up with what's happening in the industry.<br><br>
  Beside's programming, I enjoy eating food and traveling.<br><br>🚀FrontEnd Developer | MERN Stack | JAVA♥ | Programmer🚀<br><br>🚗Exploring new technologies and developing software solutions and quick hacks.<br><br>🎓   Studying DSA and JAVA.<br><br>💼   I’m currently working in Codeograph Solutions as FrontEnd Developer<br><br>🌱   Learning more about Backend Architectures and Frontend Developement.<br><br>
 
