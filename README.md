@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey 👋🏽, I'm Ravi !<br>Hi, I'm Ravi Kumar Singh, a MERN STACK Developer 🚀 from India, currently, I'm  Team Member 🙍🏽‍♂️ @Codeograph Solutions,  👨🏽‍💻, Learning JAVA 👨🏽‍💼a Electronic Engineer exploring world of codes and algorithm .<br><br>
+Hey 👋🏽, I'm Ravi !<br>Hi, I'm Ravi Kumar Singh, a Front-End Developer 🚀 from India, currently, I'm  Team Member 🙍🏽‍♂️ @Codeograph Solutions,  👨🏽‍💻, Learning JAVA 👨🏽‍💼a Electronic Engineer exploring world of codes and algorithm .<br><br>
 🛠️ My Tools:<br>
 🌟 React Magic: React is like a special tool that helps me create interactive and dynamic websites. It's like having building blocks that make my code organized and flexible.<br>
 🎨 Crafting with Material-UI and Tailwind CSS: I use Material-UI and Tailwind CSS to ensure that websites not only function seamlessly but also have stunning designs.<br>
